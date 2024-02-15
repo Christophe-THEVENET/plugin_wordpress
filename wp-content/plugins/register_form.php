@@ -3,9 +3,9 @@
 Plugin Name: Formulaire d'inscription
 Plugin URI: http://localhost/wordpress/plugins/
 Description: Création d'un formulaire d'inscription personnalisé
-Author: John Doe
+Author: Christophe THEVENET
 Version: 1.0.0
-Author URI: http://localhost/wordpress/
+Author URI: https://christophethevenet.fr
 */
 
 function callback_register_form_add_fields()
