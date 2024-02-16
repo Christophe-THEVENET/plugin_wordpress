@@ -32,7 +32,6 @@ function callback_super_admin_notices()
 {
     $current_user = wp_get_current_user();
     $message = '';
-
     $message .= "<br />Bonjour <strong>" . strtoupper($current_user->display_name) . "</strong><br />";
     if (is_super_admin($current_user->ID)) {
         $message .= "Vous êtes administrateur du site<br />";

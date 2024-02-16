@@ -1,0 +1,1 @@
+D:/wamp/www/studi/wordpress/plugin_wordpress/wp-content/plugins/query-monitor/wp-content/db.php
